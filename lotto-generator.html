@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>로또 번호 생성기</title>
+  <script>
+  function generate() {
+    var numbers = [];
+    for(var i=0; i<6; i++) {
+      numbers.push(Math.floor(Math.random() * 45));
+    }
+    return numbers;
+  }
+  </script>
+</head>
+<body>
+  <input id="inputGenerated">
+  <button id="btnGenerate">번호 생성</button>
+
+  <script>
+  (function() {
+    document.getElementById('btnGenerate').onclick = function() {
+    	var numbers = generate();
+    	document.getElementById('inputGenerated').value = numbers.join(', ');
+    }
+  })();
+  </script>
+</body>
+</html>
