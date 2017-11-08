@@ -3,23 +3,23 @@
 
 ## Git Pointer
 
-* HEAD tag
-현재 Branch가 가리키는 가장 최근 Commit :+1:
+**HEAD Tag**
+  - 현재 Branch가 가리키는 가장 최근 Commit :+1:
 
-* Master branch
-- 가장 기본이 되는 Brach
-- Master branch 는 Git 에서 기본으로 생성해준다
+**Master branch**
+    - 가장 기본이 되는 Brach
+    - Master branch 는 Git 에서 기본으로 생성해준다.
+    
+**origin**
+    - 원격 Repository 를 뜻하는 Alias
+    - Alias이므로이름을변경할수있다.
+    
+**origin/master**
+    - 원격 Repository 의 master branch
 
-* origin
-- 원격 Repository 를 뜻하는 Alias
-- Alias이므로이름을변경할수있다 
-
-* origin/master
-- 원격 Repository 의 master branch
-
-* origin/HEAD
-- 원격 Repository 가 바라보는 버전
-
+**origin/HEAD**
+    - 원격 Repository 가 바라보는 버전  
+    
 ---
 
 ## Attention Part
