@@ -3,7 +3,7 @@
 
 ## Git Pointer
 
-**HEAD Tag**
+**HEAD**
   - 현재 Branch가 가리키는 가장 최근 Commit :+1:
 
 **Master branch**
@@ -22,7 +22,9 @@
     
 ---
 
-## Attention Part
+## Attention Part in Git_KeyNote_1.pdf
+
+* Git Essential Concept : 22 ~ 23
 
 * Stash : 25 ~ 27 
 
@@ -52,4 +54,17 @@
 * Git Flow : 119 ~ 124
 
 * Commit Message  : 125 ~ 128
+
+--- 
+
+## Attention Part in Git_KeyNote_2.pdf
+
+* Version management system :16 ~ 20
+
+* Hash : 43 ~ 44
+
+* Git Pointer : 131 ~ 132
+
+
+
 
