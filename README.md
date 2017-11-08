@@ -7,8 +7,8 @@
   - 현재 Branch가 가리키는 가장 최근 Commit :+1:
 
 **Master branch**
-    - 가장 기본이 되는 Brach
-    - Master branch 는 Git 에서 기본으로 생성해준다.
+  - 가장 기본이 되는 Brach
+  - Master branch 는 Git 에서 기본으로 생성해준다.
     
 **origin**
     - 원격 Repository 를 뜻하는 Alias
