@@ -1,6 +1,5 @@
 
 
-
 ## Git Pointer
 
 **HEAD**
