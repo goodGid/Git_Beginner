@@ -14,17 +14,17 @@
 
 **Master branch**
   - 가장 기본이 되는 Brach
-  - Master branch 는 Git 에서 기본으로 생성해준다.
+  - Master branch는 Git에서 기본으로 생성해준다.
     
 **origin**
-  - 원격 Repository 를 뜻하는 Alias
-  - Alias이므로이름을변경할수있다.
+  - 원격 Repository를 뜻하는 Alias
+  - Alias이므로 이름을변경할수있다.
     
 **origin/master**
-  - 원격 Repository 의 master branch
+  - 원격 Repository의 master branch
 
 **origin/HEAD**
-  - 원격 Repository 가 바라보는 버전  
+  - 원격 Repository가 바라보는 버전  
     
 ---
 
