@@ -18,7 +18,7 @@
     
 **origin**
   - 원격 Repository를 뜻하는 Alias
-  - Alias이므로 이름을변경할수있다.
+  - Alias이므로 이름을 변경할 수 있다.
     
 **origin/master**
   - 원격 Repository의 master branch
